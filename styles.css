@@ -11,7 +11,7 @@
     src: url('/assets/fonts/PlusJakartaSans-VariableFont_wght.ttf') format('woff2'),
     url('/assets/fonts/PlusJakartaSans-Italic-VariableFont_wght.ttf');
     font-weight: 100 900;
-    font-style: normal;
+    font-style: bold;
 }
 
 :root {

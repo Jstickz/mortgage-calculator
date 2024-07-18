@@ -79,7 +79,7 @@ const totalCal = () => {
 
   for (let i = 0; i < radioBtn.length; i++) {
     if (radioBtn[0].checked) {
-      yourTotalInterest.textContent = `Your monthly repayments`;
+      yourTotalInterest.textContent = `Your monthly repayment is:`;
       repayAmount.textContent = `£ ${formatedMonthlyRepayment}`;
       totalRepayAmount.textContent = `£ ${formatedtTotalRepayment}`;
       results.style.display = "block";
