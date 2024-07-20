@@ -14,8 +14,6 @@ const results = document.getElementById("results");
 const preview = document.getElementById("preview");
 const yourTotalInterest = document.getElementById("yourTotalInterest");
 
-// const repayment = document.getElementById("repayment");
-// const interest = document.getElementById("interest");
 
 let principal = 0;
 let term = 0;
